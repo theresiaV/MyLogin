@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyLogin</string>
+
+    <string name="Login">Login</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+
+    <string name="Respond">Respond</string>
+    <string name="ResultApi">Result Api</string>
+    <string name="title_activity_two">TwoActivity</string>
+
+    <string name="Logout">Logout</string>
+
+    <string name="error_invalid_password">Invalid_psw</string>
+    <string name="error_email_empty">empty_email</string>
+    <string name="error_invalid_email">Invalid_email</string>
+</resources>
